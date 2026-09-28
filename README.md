@@ -9,7 +9,7 @@ The project uses a comprehensive dataset consisting of static data (movie metada
 
 > ⚠️ **Data Note:** To keep the repository lightweight, the original CSV files are not tracked on GitHub. 
 > **[Download the full dataset here](https://drive.google.com/drive/folders/1LZokTM5jA-Ut71Deg_7fPAIig5tlvbEl?usp=drive_link)**.
-> Once downloaded, place the raw files in the `data/raw/` folder before running the notebook. Executing the pipeline will generate the processed files (e.g., `movie_clean.csv`) directly in the `data/cleaned/` directory.
+> Once downloaded, place the raw files in the `solution/data/raw/` folder before running the notebook. Executing the pipeline will generate the processed files (e.g., `movie_clean.csv`) directly in the `data/cleaned/` directory.
 
 ## 🛠 Technologies Used
 *   **Environment:** Jupyter Notebook
